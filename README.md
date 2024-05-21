@@ -1,2 +1,2 @@
 # odin-recipes
-Going through The Odin Project HTML Recipes Project
+This is how I went through The Odin Project HTML Recipes Project
