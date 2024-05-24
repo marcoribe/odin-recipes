@@ -1,0 +1,32 @@
+body{
+    background-color: darkgoldenrod;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: white;
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+}
+
+h2{
+    font-size: 32px;
+}
+
+p{
+    font-size: 18px;
+}
+
+
+li{
+    font-size: 32px;
+}
+
+.b{
+    font-size: 18px;
+}
+
+#center {
+    text-align: center;
+}
